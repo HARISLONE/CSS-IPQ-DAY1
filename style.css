@@ -33,7 +33,7 @@ th{
     color: black;
     font-size: 25px;
     text-align: center;
-    width: 60%;
+    width: 50%;
 }
 td{
     background-color: chartreuse;
@@ -49,4 +49,10 @@ td{
 .pre3{
     position: absolute;
     right: 380px;
+}
+
+.img1{
+    width: 400px;
+    height: 200px;
+    margin-left: 20px;
 }
